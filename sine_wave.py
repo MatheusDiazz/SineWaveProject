@@ -23,4 +23,4 @@ def plot_sine_wave(frequency=1.0, amplitude=1.0, duration=2.0, sampling_rate=100
     plt.show()
 
 if __name__ == "__main__":
-    plot_sine_wave(frequency=5.0)
+    plot_sine_wave(frequency=10.0)
